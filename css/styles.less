@@ -1,3 +1,44 @@
-header 				{ 
+body 						{ font-size: 20px;
 
+	h1 			{ font-weight: bold;}
+
+	header 				{ text-align: center; 
+									color: white; 
+									position: relative;
+									transition: top 0.5s;
+									top: -3.5rem;
+		.fa-stack   { margin-top: -0.25rem;}									
+		span.nav		{ padding: 1.25rem;
+									box-sizing: border-box;
+
+			span 			{ margin-right: 0.625rem;
+									font-size: 1.25rem;
+			}
+		}
+		div.handle	{ position: absolute;
+									top: 3.5rem;
+									left: 50%;
+									margin-left: -50px;
+		}
+		&:hover  		{ top: 0rem}
+	}
+	
+	.project 						{ height: 25rem;
+												color: white;
+												background-color: #2F4F4F;
+												box-sizing: border-box;
+												padding: 5rem;
+		h1 								{ color: white;}
+		.memo 						{ line-height: 1.5rem;
+												padding-top: 0.5rem;
+		}
+		.button 					{ background-color: transparent;
+												border: 0.25rem solid white;
+												border-radius: 0.25rem;
+												font-size: 1.25rem;
+												padding: 1rem 2rem;
+												margin-top: 2rem;
+												text-transform: uppercase;
+		}
+	}
 }

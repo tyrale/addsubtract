@@ -1,0 +1,378 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"z",
+				"z	z-index"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"bordes",
+				"border-style"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"edmond",
+				"Edmondsans-Bold"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pre",
+				"pre-line"
+			],
+			[
+				"light",
+				"lightseagreen"
+			],
+			[
+				"yellow",
+				"yellowgreen"
+			],
+			[
+				"gray",
+				"lightgray"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bla",
+				"blanchedalmond"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tyrale/Sites/addsubtract/projects/lunchradio-intro.html",
+		"/Users/tyrale/Sites/LunchRadio/Site/index.html",
+		"/Users/tyrale/Sites/Push/loading.css",
+		"/Users/tyrale/Sites/Push/index.html",
+		"/Users/tyrale/Sites/Push/style.css",
+		"/Users/tyrale/Sites/Push/loading.js",
+		"/Users/tyrale/Sites/Push/themes.html",
+		"/Users/tyrale/Sites/tyralev5/index.html",
+		"/Users/tyrale/Sites/LunchRadio/Site/js/mappoints.js",
+		"/Users/tyrale/Sites/LunchRadio/Site/css/style.css",
+		"/Users/tyrale/Sites/LunchRadio/index.html",
+		"/Users/tyrale/Sites/Lunch Radio/index.html",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tyrale/Sites/Lunch Radio/lunch.css",
+		"/Users/tyrale/Sites/PD-Lite/list.html",
+		"/Users/tyrale/Sites/PD-Lite/pd-lite.css",
+		"/Users/tyrale/Sites/PD-Lite/note.html",
+		"/Users/tyrale/Sites/PD-Lite/section.html",
+		"/Users/tyrale/Sites/PD-Lite/template.html",
+		"/Users/tyrale/Sites/PD-Lite/index.html",
+		"/Users/tyrale/Library/Application Support/Flow/Editor/public_html/tyrale/index.html",
+		"/Users/tyrale/Sites/UX-Shorthand/index.html",
+		"/Users/tyrale/Sites/dish-network/index.html",
+		"/Users/tyrale/Sites/dish-network/less/height.less",
+		"/Users/tyrale/Sites/dish-network/less/main.less",
+		"/private/etc/apache2/users/tyrale.conf",
+		"/Users/tyrale/Downloads/mapcrafter-master/README.md",
+		"/Users/tyrale/Sites/tyralev5/jquery.blend.min.js",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"div",
+			"span",
+			"opacity",
+			"z-index",
+			"span",
+			"div",
+			"43AB4D",
+			"inset",
+			"content",
+			"list_carousel",
+			"red",
+			"Section Comments\"",
+			"li",
+			"Comments",
+			"div",
+			"fade",
+			"<a href=\"#\">\n					List item 2\n					<span class=\"chevron\"></span>\n				</a>",
+			"span",
+			"margin: 10px",
+			"form",
+			"2",
+			"span3",
+			"row row-hgt-2",
+			"row-hgt-2",
+			"bc-red",
+			"col-lg-4 ",
+			"col-lg-2 ",
+			"show",
+			"div",
+			"col-lg-4 ",
+			"1.8e",
+			"0.1",
+			" >",
+			"channel \"",
+			"bc-green ",
+			"channel",
+			"span",
+			"red",
+			"0.3",
+			"gray",
+			"yellow",
+			"0",
+			",",
+			"{",
+			"green",
+			"channel",
+			"red",
+			"{",
+			"span4",
+			"lightgrayyellow",
+			" #f7f7f7",
+			"200px",
+			"colorrun",
+			"h1",
+			"10px",
+			"div",
+			"<div",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "addsubtract.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
