@@ -1,6 +1,8 @@
 body 						{ font-size: 20px;
 
-	h1 			{ font-weight: bold;}
+	h1 			{ font-weight: bold;
+						line-height: 3rem;
+	}
 
 	header 				{ text-align: center; 
 									color: white; 
@@ -16,18 +18,23 @@ body 						{ font-size: 20px;
 			}
 		}
 		div.handle	{ position: absolute;
-									top: 3.5rem;
+									top: 3.25rem;
 									left: 50%;
 									margin-left: -50px;
 		}
 		&:hover  		{ top: 0rem}
 	}
 	
-	.project 						{ height: 25rem;
+	.intro 				{
+		img 				{ margin: 0 auto;
+		}
+	}
+
+	.project 						{ height: 37.5rem;
 												color: white;
-												background-color: #2F4F4F;
+												background-color: #808080;
 												box-sizing: border-box;
-												padding: 5rem;
+												padding: 11rem;
 		h1 								{ color: white;}
 		.memo 						{ line-height: 1.5rem;
 												padding-top: 0.5rem;
@@ -39,6 +46,12 @@ body 						{ font-size: 20px;
 												padding: 1rem 2rem;
 												margin-top: 2rem;
 												text-transform: uppercase;
+		}
+		&.white 					{ background-color: white;
+												color: black;
+			h1 							{ color: black;}	
+			.button 				{ border-color: black;
+			}
 		}
 	}
 }

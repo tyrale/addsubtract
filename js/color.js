@@ -23,7 +23,7 @@ $obj2 = $('.shadow');
 
 var setHue = Math.round( Math.random() * 360 );
 var setSat = Math.round( Math.random() * 70 + 5);
-var setLight = Math.round( Math.random() * 20 + 20);
+var setLight = Math.round( Math.random() * 20 + 40);
 
 var newColor = "hsl(" + setHue + ", " + setSat + "%, " + setLight + "%)";
 var shadowColor = "hsl(" + setHue + ", " + setSat + "%, " + (setLight - 10)+ "%)";
