@@ -1,19 +1,19 @@
 $('.color')
     .delay(10)
     .queue(function(){
-      $(this).css({"transition": "background-color 20s"});
+      $(this).css({"transition": "background-color 30s"});
         $(this).dequeue();
     });
 $('.font-color')
     .delay(10)
     .queue(function(){
-      $(this).css({"transition": "color 20s"});
+      $(this).css({"transition": "color 30s"});
         $(this).dequeue();
     });
 $('.shadow')
     .delay(10)
     .queue(function(){
-      $(this).css({"transition": "text-shadow 20s , color 20s"});
+      $(this).css({"transition": "text-shadow 30s , color 30s"});
         $(this).dequeue();
     });
 
