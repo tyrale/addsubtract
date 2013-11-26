@@ -9,7 +9,11 @@
   Location: Nashville
 
 /* THANKS */
-  Names (& URL): Kelly Redd @kellymredd, Lacy Rhoades @lacyrhoades, Tristan Mcnatt
+  Names (& URL): 
+  Josh Goodwin @gautch,
+  Kelly Redd @kellymredd, 
+  Lacy Rhoades @lacyrhoades, 
+  Tristan Mcnatt
 
 /* SITE */
   Standards: HTML5, CSS3
