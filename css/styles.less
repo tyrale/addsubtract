@@ -1,9 +1,19 @@
-body 						{ font-size: 20px;
+body 	{ font-size: 20px;
 
-	h1 			{ font-weight: bold;
-						line-height: 3rem;
+	h1 				{ font-weight: bold;
+							line-height: 3rem;
 	}
-	h4 			{ color: white;}
+	h4 				{ color: white;
+							margin: 2rem 0 0.5em;
+	}
+	.white 		{ background-color: white !important;
+							color: black !important;
+		h1,
+		h4 			{ color: black !important;}
+		.button { border-color: black !important;
+		}
+	}
+	.color    { color: white;}
 
 	header 				{ text-align: center;
 									color: white;
@@ -49,22 +59,16 @@ body 						{ font-size: 20px;
 												margin-top: 2rem;
 												text-transform: uppercase;
 		}
-		&.white 					{ background-color: white;
-												color: black;
-			h1 							{ color: black;}
-			.button 				{ border-color: black;
-			}
-		}
 	}
-	.services 			{
+	.services 			{	padding: 6.25rem;
 		.service 			{ background-color: transparent;
 										font-size: 1.25rem;
 										padding: 1rem 2rem;
 										margin-top: 2rem;
-										text-align: center;
+			.process 		{ color: #555;}
 		}
 	}
-	.feet 			{ padding: 6.25rem;
+	.feet 			{ padding: 2.25rem;
 								color: white;
 
 	}
