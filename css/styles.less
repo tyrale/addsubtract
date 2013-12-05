@@ -4,12 +4,12 @@ body 	{ font-size: 20px;
 							line-height: 3rem;
 	}
 	h2        { color: white;
-							font-size: 3rem;
+							font-size: 2rem;
 							margin-bottom: 0.75rem;
 							line-height: 1em;
 	}
 	h3 				{ color: #D3D3D3;
-							font-size: 1.75rem;
+							font-size: 1.25rem;
 							margin-top: 0;
 							line-height: 1rem;
 	}
@@ -23,7 +23,9 @@ body 	{ font-size: 20px;
 		.button { border-color: black !important;
 		}
 	}
-	.color    { color: white;}
+	.color    { color: white;
+		a 			{ color: white;}
+	}
 
 	header 				{ text-align: center;
 									color: white;
@@ -65,11 +67,23 @@ body 	{ font-size: 20px;
 		.button 					{ background-color: transparent;
 												border: 0.25rem solid white;
 												border-radius: 0.25rem;
-												font-size: 1.25rem;
-												padding: 1rem 2rem;
 												margin-top: 2rem;
+												padding: 0;
+			a 							{ font-size: 1.25rem;
 												text-transform: uppercase;
-		}
+												float: left;
+												padding: 1rem 2rem;
+			}
+			.ease						{ width: 100%;
+												height: 0px;
+												background-color: black;
+												    -webkit-transition: height ease .25s;
+											          	  transition: height ease .25s;
+			}
+			&:hover .ease		{ height: 61px;
+
+			}
+ 		}
 	}
 	.services 			{	padding: 6.25rem;
 		.service 			{ background-color: transparent;
@@ -81,13 +95,16 @@ body 	{ font-size: 20px;
 	}
 	.feet 						{ padding: 2.25rem;
 											color: #D3D3D3;
+		a 							{ color: white;}
+		h3 a 						{ color: #d3d3d3;}
 		.post 					{ margin-bottom: 3rem;
-			.avatar 			{
+			.avatar 			{ margin: 2rem 0 0.5rem;
 				img 				{ height: 28px; 
 											overflow: hidden;
 											border-radius: 16px;
 											margin-top: -0.5rem;
 				}
+				img, a 			{ margin-right: 0.5rem;}
 				.read-time 	{ font-size: 0.875rem;}
 			}
 		}
