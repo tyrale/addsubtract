@@ -13,7 +13,7 @@ $('.font-color')
 $('.shadow')
     .delay(10)
     .queue(function(){
-      $(this).css({"transition": "text-shadow 30s , color 30s"});
+      $(this).css({"transition": "text-shadow 30s , background-color 30s"});
         $(this).dequeue();
     });
 
@@ -30,7 +30,7 @@ var shadowColor = "hsl(" + setHue + ", " + setSat + "%, " + (setLight - 10)+ "%)
 
 $obj.css({ "background-color": newColor });
 $obj1.css({ "color": newColor });
-$obj2.css({ "color": shadowColor });
+$obj2.css({ "background-color": shadowColor });
   //console.log(newColor);
 
 setInterval( function () {
@@ -42,6 +42,6 @@ setInterval( function () {
   var shadowColor = "hsl(" + setHue + ", " + setSat + "%, " + (setLight - 10)+ "%)";
   $obj.css({ "background-color": newColor });
   $obj1.css({ "color": newColor });
-  $obj2.css({ "color": shadowColor });
+  $obj2.css({ "background-color": shadowColor });
   //console.log(newColor);
 }, 8000);
