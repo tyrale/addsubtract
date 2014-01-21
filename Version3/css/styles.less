@@ -1,0 +1,149 @@
+body 	{ font-size: 20px;
+				line-height: 1.5rem;
+
+	h1 				{ font-weight: bold;
+							line-height: 3rem;
+							position: relative;
+							z-index: 1;
+	}
+	h2        { color: white;
+							font-size: 2rem;
+							margin-bottom: 0.75rem;
+							line-height: 1em;
+	}
+	h3 				{ color: #D3D3D3;
+							font-size: 1.25rem;
+							margin-top: 0;
+							line-height: 1rem;
+	}
+	h4 				{ color: white;
+							margin: 2rem 0 0.5em;
+	}
+	a 				{ transition: color ease .25s;}
+	.white 		{ background-color: white !important;
+							color: black !important;
+		a 			{ color: black;}
+		h1,
+		h4 			{ color: black !important;}
+		.button { border-color: black !important;
+		}
+	}
+	.color    { color: white;
+		a 			{ color: white;}
+	}
+
+	header 				{ text-align: center;
+									color: white;
+									position: absolute;
+									transition: top 0.5s;
+									top: -3.5rem;
+									width: 100%;
+									z-index: 100;
+		.fa-stack   { margin-top: -0.25rem;}
+		span.nav		{ padding: 1.25rem;
+									box-sizing: border-box;
+
+			span 			{ margin-right: 0.625rem;
+									font-size: 1.25rem;
+			}
+		}
+		div.handle	{ position: absolute;
+									top: 3.25rem;
+									left: 50%;
+									margin-left: -50px;
+		}
+		&:hover  		{ top: 0rem;}
+	}
+
+	.intro 				{
+		img 				{ margin: 0 auto;
+									height: 125px;
+		}
+	}
+
+	.project 						{ height: 37.5rem;
+												color: white;
+												box-sizing: border-box;
+												padding: 11rem;
+												position: relative;
+		.right 						{ text-align: right;
+			.button 				{ float: right;
+
+			}
+
+		}
+
+		h1 								{ color: white;}
+		.memo 						{ line-height: 1.5rem;
+												padding-top: 0.5rem;
+												position: relative;
+												z-index: 1;
+		}
+		.button 					{ background-color: transparent;
+												border: 0.25rem solid white;
+												border-radius: 0.25rem;
+												margin-top: 2rem;
+												padding: 0;
+												position: relative;
+												z-index: 1;
+			a 							{ font-size: 1.25rem;
+												text-transform: uppercase;
+												float: left;
+												padding: 1rem 2rem;
+			}
+			.ease						{ width: 100%;
+												height: 0px;
+												background-color: black;
+											  transition: height ease .25s;
+			}
+			&:hover a       { color: white;}
+			&:hover .ease		{ height: 61px;}
+ 		}
+	}
+	.services 			{	padding: 6.25rem;
+		.service 			{ background-color: transparent;
+										font-size: 1.25rem;
+										padding: 1rem 2rem;
+										margin-top: 2rem;
+			.process 		{ color: #555;}
+		}
+	}
+	.feet 						{ padding: 2.25rem;
+											color: #D3D3D3;
+		a 							{ color: white;}
+		h3 a 						{ color: #d3d3d3;}
+		.post 					{ margin-bottom: 3rem;
+			.avatar 			{ margin: 2rem 0 0.5rem;
+				img 				{ height: 28px;
+											overflow: hidden;
+											border-radius: 16px;
+											margin-top: -0.5rem;
+				}
+				img, a 			{ margin-right: 0.5rem;}
+				.read-time 	{ font-size: 0.875rem;}
+			}
+		}
+		.person 				{ clear: both;
+											margin-top: 2rem;
+			.name 				{ color: white;
+											padding-bottom: 0.5rem;
+											padding-top: 0.5rem;
+			}
+			.title  			{ font-size: 1rem;
+											line-height: 1rem;
+			}
+			img 					{ border-radius: 100px;
+											overflow: hidden;
+											margin-right: 1rem;
+											float: left;
+			}
+			.icons 				{ font-size: 0.75rem;
+											padding-top: 0.75rem;
+			}
+		}
+	}
+	.footer    	{ margin-top: 3rem;
+								font-size: 0.9rem;
+	}
+}
+@import url("projects.less");
