@@ -1,25 +1,70 @@
+.project 							{ min-height: 37.5rem;
+												color: white;
+												position: relative;
+												padding: 11rem 1rem 0;
+	.right-way				{ text-align: right;
+		.button 				{ float: right;}
+	}
+	h1 								{ color: white;
+											font-size: 2rem;
+											line-height: 2rem;
+	}
+	.memo 						{ line-height: 1.5rem;
+											padding-top: 0.5rem;
+											position: relative;
+											z-index: 1;
+	}
+	.button 					{ background-color: transparent;
+											border: 0.25rem solid white;
+											border-radius: 0.25rem;
+											margin-top: 2rem;
+											padding: 0;
+											position: relative;
+											z-index: 1;
+		a 							{ font-size: 1.25rem;
+											text-transform: uppercase;
+											float: left;
+											padding: 1rem 2rem;
+		}
+		.ease						{ width: 100%;
+											height: 0px;
+											background-color: black;
+										  transition: height ease .25s;
+		}
+		&:hover a       { color: white;}
+		&:hover .ease		{ height: 61px;}
+ 		}
+	}
+
+.intro 				{
+	.row 				{
+		.logo 		{ text-align: center;
+								margin-bottom: 11rem;
+		}
+	}
+}
 .lunch 				{ overflow: hidden;
 								background-image: url(../img/map2.png);
 								background-size: cover;
-	h1 					{ white-space: nowrap;}
-	img 				{ top: 10%;
-								left: 15%;
+	h1 					{ }
+	img 				{ top: -100px;
+								left: 0%;
 								position: absolute;
 	}
 
 }
 .gamestickr 	{ overflow: hidden;
-								padding-top: 9rem !important;
 	img 				{ top: 0%;
 								right: 0%;
 								position: absolute;
 	}
+	.type 			{ margin-bottom: 2rem;}
 }
 .wallace 			{ overflow: hidden;
 								background-image: url(../img/wallace-screen-nikolai.jpg);
 								background-size: cover;
 	img 				{ top: 10%;
-								right: 15%;
+
 								position: absolute;
 	}
 }
@@ -27,7 +72,7 @@
 								background-image: url(../img/mb-screen2.png);
 								background-size: cover;
 	img 				{ top: 10%;
-								right: 15%;
+
 								position: absolute;
 
 	}
@@ -36,7 +81,7 @@
 								background-image: url(../img/pc-bg.png);
 								background-size: cover;
 	img 				{ top: 10%;
-								right: 15%;
+
 								position: absolute;
 
 	}
@@ -44,20 +89,20 @@
 }
 .colorshift 	{ overflow: hidden;
 	img 				{ top: 0%;
-								right: -5%;
+								right: 0%;
 								position: absolute;
 	}
 }
 .noah 				{ background-color: #B22222;
 	h1 					{ white-space: nowrap;}
 	img 				{ top: 20%;
-								right: -10%;
+
 								position: absolute;
 	}
 }
 .songwriter 	{ overflow: hidden;
 	img 				{ top: 20%;
-								right: -10%;
+
 								position: absolute;
 
 	}
@@ -65,7 +110,7 @@
 .dance 				{ overflow: hidden;
 								background-color: #7C9FA7;
 	img 				{ top: 20%;
-								right: -16%;
+
 								position: absolute;
 
 	}
