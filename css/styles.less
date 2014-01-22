@@ -26,10 +26,14 @@ body 	{ font-size: 20px;
 		h1,
 		h4 			{ color: black !important;}
 		.button { border-color: black !important;
+							background-color: white !important;
 		}
 	}
-	.color    { color: white;
-		a 			{ color: white;}
+	.color    					{ color: white;
+		a 								{ color: white;}
+		.ease 						{ background-color: white !important;}
+		.button:hover a   { color: black !important;}
+		.button:hover .ease   { background-color: white !important;}
 	}
 
 	header 				{ text-align: center;
@@ -61,7 +65,7 @@ body 	{ font-size: 20px;
 		}
 	}
 
-	
+
 	.services 			{	padding: 1rem;
 		.service 			{ background-color: transparent;
 										font-size: 1.25rem;
@@ -108,4 +112,4 @@ body 	{ font-size: 20px;
 								font-size: 0.9rem;
 	}
 @import url("projects.less");
-//@import url("medias.less");
+@import url("medias.less");

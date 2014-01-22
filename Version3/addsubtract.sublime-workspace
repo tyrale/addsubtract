@@ -1,0 +1,553 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"backc",
+				"background-color"
+			],
+			[
+				"backg",
+				"background-image"
+			],
+			[
+				"im",
+				"@import	@import url(${0});"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"padding",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-box"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"z",
+				"z	z-index"
+			],
+			[
+				"bordes",
+				"border-style"
+			],
+			[
+				"white",
+				"whitesmoke"
+			],
+			[
+				"edmond",
+				"Edmondsans-Bold"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"po",
+				"pos:a	position:absolute"
+			],
+			[
+				"line",
+				"line-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-size"
+			],
+			[
+				"pos",
+				"pos:r	position:relative"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bl",
+				"block"
+			],
+			[
+				"fl",
+				"fl	float: ${1:left};"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"pre",
+				"pre-line"
+			],
+			[
+				"light",
+				"lightseagreen"
+			],
+			[
+				"yellow",
+				"yellowgreen"
+			],
+			[
+				"gray",
+				"lightgray"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"bla",
+				"blanchedalmond"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 13281,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/styles.less",
+			"settings":
+			{
+				"buffer_size": 3368,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/projects.less",
+			"settings":
+			{
+				"buffer_size": 1501,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 87.0,
+		"selected_items":
+		[
+			[
+				"brwo",
+				"Preferences: Browse Packages"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"less",
+				"Set Syntax: LESS"
+			],
+			[
+				"brwose",
+				"Preferences: Browse Packages"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/tyrale/Sites/addsubtract/index.html",
+		"/Users/tyrale/Sites/addsubtract/js/color.js",
+		"/Users/tyrale/Sites/addsubtract/css/styles.less",
+		"/Users/tyrale/Sites/addsubtract/services-section.html",
+		"/Users/tyrale/Sites/addsubtract/other.html",
+		"/Users/tyrale/Sites/addsubtract/project-sections/lunch.inc",
+		"/Users/tyrale/Sites/addsubtract/addsubtract.sublime-project",
+		"/Users/tyrale/Sites/addsubtract/projects/lunchradio-intro.html",
+		"/Users/tyrale/Sites/LunchRadio/Site/index.html",
+		"/Users/tyrale/Sites/Push/loading.css",
+		"/Users/tyrale/Sites/Push/index.html",
+		"/Users/tyrale/Sites/Push/style.css",
+		"/Users/tyrale/Sites/Push/loading.js",
+		"/Users/tyrale/Sites/Push/themes.html",
+		"/Users/tyrale/Sites/tyralev5/index.html",
+		"/Users/tyrale/Sites/LunchRadio/Site/js/mappoints.js",
+		"/Users/tyrale/Sites/LunchRadio/Site/css/style.css",
+		"/Users/tyrale/Sites/LunchRadio/index.html",
+		"/Users/tyrale/Sites/Lunch Radio/index.html",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/tyrale/Sites/Lunch Radio/lunch.css",
+		"/Users/tyrale/Sites/PD-Lite/list.html",
+		"/Users/tyrale/Sites/PD-Lite/pd-lite.css",
+		"/Users/tyrale/Sites/PD-Lite/note.html",
+		"/Users/tyrale/Sites/PD-Lite/section.html",
+		"/Users/tyrale/Sites/PD-Lite/template.html",
+		"/Users/tyrale/Sites/PD-Lite/index.html",
+		"/Users/tyrale/Library/Application Support/Flow/Editor/public_html/tyrale/index.html",
+		"/Users/tyrale/Sites/UX-Shorthand/index.html",
+		"/Users/tyrale/Sites/dish-network/index.html",
+		"/Users/tyrale/Sites/dish-network/less/height.less",
+		"/Users/tyrale/Sites/dish-network/less/main.less",
+		"/private/etc/apache2/users/tyrale.conf",
+		"/Users/tyrale/Downloads/mapcrafter-master/README.md",
+		"/Users/tyrale/Sites/tyralev5/jquery.blend.min.js",
+		"/Users/tyrale/Library/Application Support/Sublime Text 3/Packages/SideBarEnhancements/CHANGELOG"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"span",
+			"div",
+			"h3",
+			"height",
+			"\"words\">",
+			"fa-stack-1x",
+			"font-color",
+			"<div class=\"button tk-bree-serif font-color\">View Our Solution</div>",
+			"<div class=\"button tk-bree-serif\">View Our Solution</div>",
+			"| ",
+			"{}",
+			"'",
+			"bottom",
+			"h2",
+			"<h4>",
+			"<h4 class=\"tk-bree-serif\"",
+			"<i class=\"fa fa-bolt\">",
+			"fa-circle-o",
+			"rc=\"\"",
+			"e-3",
+			"20s",
+			"p",
+			"div",
+			"span",
+			"opacity",
+			"z-index",
+			"span",
+			"div",
+			"43AB4D",
+			"inset",
+			"content",
+			"list_carousel",
+			"red",
+			"Section Comments\"",
+			"li",
+			"Comments",
+			"div",
+			"fade",
+			"<a href=\"#\">\n					List item 2\n					<span class=\"chevron\"></span>\n				</a>",
+			"span",
+			"margin: 10px",
+			"form",
+			"2",
+			"span3",
+			"row row-hgt-2",
+			"row-hgt-2",
+			"bc-red",
+			"col-lg-4 ",
+			"col-lg-2 ",
+			"show",
+			"div",
+			"col-lg-4 ",
+			"1.8e",
+			"0.1",
+			" >",
+			"channel \"",
+			"bc-green ",
+			"channel",
+			"span",
+			"red",
+			"0.3",
+			"gray",
+			"yellow",
+			"0",
+			",",
+			"{",
+			"green",
+			"channel",
+			"red",
+			"{",
+			"span4",
+			"lightgrayyellow",
+			" #f7f7f7",
+			"200px",
+			"colorrun",
+			"h1",
+			"10px",
+			"div",
+			"<div",
+			"div"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 13281,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 4191.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "css/styles.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3368,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3256,
+								3256
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 624.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "css/projects.less",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1501,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage",
+							"tab_size": 2
+						},
+						"translation.x": 0.0,
+						"translation.y": 299.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "addsubtract.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
